@@ -7,3 +7,4 @@ python main.py
 
 mkdir -p $result_folder/executable
 cp -r $executable_folder/* $result_folder/executable/
+sleep 5
